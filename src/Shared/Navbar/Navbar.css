@@ -1,0 +1,65 @@
+.dark {
+    background-color: #333;
+    color: #fff;
+    font-weight: 500;    
+}
+
+.dark a:hover{
+    color: #333;
+}
+
+.light {
+    background-color: #fff;
+    color: #333;
+    font-weight: 500;
+}
+
+.light a:hover{
+    color: #333;
+}
+
+.dark #mobile-menu{
+    background-color: #333;
+    border-color: #333;
+}
+
+.light #mobile-menu{
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.dark #navbarbg{
+    background-color: rgb(21 94 117);
+}
+
+.dark #togglebg{
+    background-color: rgb(21 94 117);
+}
+
+.dark #footer{
+    background-color: rgb(21 94 117);
+    color: #fff;    
+}
+
+.dark #card{
+    background-color: rgb(21 94 117);       
+}
+.dark #cardtwo{
+    background-color: rgb(21 94 117);       
+}
+.dark #partthree{
+    background-color: rgb(21 94 117);       
+}
+.dark #cardfive{
+    background-color: rgb(21 94 117);       
+}
+.dark #cardsix #cardseven{
+    background-color: rgb(252 165 165);       
+}
+.dark #registerText{
+    color: #333;
+}
+
+.dark #loginText{
+    color: #333;
+}
